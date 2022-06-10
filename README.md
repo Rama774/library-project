@@ -4,13 +4,12 @@
  
  
 In this project I used:
- 
- IF statement
- List 
- Classes
- Apstract Classes
- Loops
- String interpolation
+ IF statement,
+ List,
+ Classes,
+ Apstract Classes,
+ Loops,
+ String interpolation,
  length
  ...etc
 
